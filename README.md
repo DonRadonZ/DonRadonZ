@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/supachai-s-40650a104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supachai-s-40650a104" height="30" width="40" /></a>
 <a href="https://fb.com/supachai.sinkraseam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="don supachai" height="30" width="40" /></a>
 <a href="https://instagram.com/don_radonz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="don_radonz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@radonz_don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="radonz_don" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@radonz_don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="radonz_don" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
